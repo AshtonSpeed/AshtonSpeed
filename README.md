@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshtonSpeed
-- 👀 I’m interested in hardware, software, operating systems, radio, sailing, DNA, satellites, astronomy.
+- 👀 I’m interested in hardware, software, LaTeX, operating systems, radio, sailing, DNA, satellites, astronomy.
 - 🌱 I’m currently learning git, FPGA.
 - 📫 How to reach me: jdt@ashtonlabs.com
 
